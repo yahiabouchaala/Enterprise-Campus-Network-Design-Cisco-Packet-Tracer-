@@ -15,7 +15,7 @@ Each floor hosts multiple departments, each requiring:
 - Dual multilayer switches for redundancy
 - Dual routers connected to two ISPs
 - Centralized server room
-
+⛔⛔⛔The password for every switch/Router is :cisco 
 🔧 Technologies Used
 - VLAN & VLSM subnetting
 - Inter-VLAN routing (SVIs)
